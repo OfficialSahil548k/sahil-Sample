@@ -1,2 +1,2 @@
 # sahil-Sample
-This is the sample repo for this account.
+This is the sample repo for Git & GitHub.
